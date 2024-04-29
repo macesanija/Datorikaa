@@ -1,0 +1,15 @@
+body{
+    background-color: lightpink;
+}
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 100px; /* Set the width of each table cell */
+    height: 100px; /* Set the height of each table cell */
+    border: 1px solid black; /* Add borders to cells for clarity */
+}
+.centered {
+    text-align: center;
+}
